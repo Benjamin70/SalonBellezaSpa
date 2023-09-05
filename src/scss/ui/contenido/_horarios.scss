@@ -2,7 +2,7 @@
 @use 'base/mixins' as m;
 
 .horario{
-    background-image: linear-gradient(to bottom, v.$primario 0%, v.$primario 50%, transparent 50%), url(../img/bg_horarios.jpg);
+    background-image: linear-gradient(to bottom, v.$primario 0%, v.$primario 53%, transparent 50%), url(../img/bg_horarios.jpg);
     background-repeat: no-repeat;
     background-position: center, bottom center;
     color: v.$blanco;
